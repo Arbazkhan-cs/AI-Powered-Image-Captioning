@@ -2,11 +2,11 @@
 
 # AI-based Image Captioning with Deep Learning
 
-This project focuses on automatically generating captions for images using deep learning techniques. We leverage Convolutional Neural Networks (CNNs), specifically the VGG16 model, for feature extraction, and Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory (LSTM) networks, for caption generation. The project also includes a user-friendly web application built with Streamlit for easy interaction.
+This project focuses on automatically generating captions for images using deep learning techniques. We leverage Convolutional Neural Networks (CNNs) for feature extraction, specifically utilizing the VGG16 architecture through fine-tuning, and Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory (LSTM) networks, for caption generation. The project also includes a user-friendly web application built with Streamlit for easy interaction.
 
 ## Key Components
 
-- **VGG16 for Feature Extraction**: Utilizing the VGG16 architecture for extracting rich visual features from images.
+- **CNN for Feature Extraction (Fine-tuned VGG16)**: Utilizing the VGG16 architecture for extracting rich visual features from images through fine-tuning.
 - **Recurrent Neural Networks (RNNs)**: Processing extracted image features with LSTM networks to generate coherent captions.
 - **Deep Learning Fusion**: Combining CNNs and RNNs to bridge the semantic gap between visual and textual information.
 - **Streamlit Web Application**: Providing a user-friendly interface for uploading images and receiving generated captions instantly.
@@ -49,4 +49,4 @@ This project focuses on automatically generating captions for images using deep 
 
 ---
 
-Feel free to customize this template with your specific project details, installation instructions, and any additional information you'd like to include in your README.md file on GitHub!
+Feel free to adjust and customize this template further to fit your specific project details and preferences!
