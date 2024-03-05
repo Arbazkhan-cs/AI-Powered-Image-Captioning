@@ -1,5 +1,3 @@
-Certainly! Here's a condensed version suitable for your GitHub README.md file:
-
 ---
 
 # AI-based Image Captioning with Deep Learning
